@@ -1,0 +1,288 @@
+CustomerID,recency,frequency,monetary,r_score,f_score,m_score,total_score_rfm,rfm_category
+CUST0264,112,6,126.84,10,10,10,30,Elite Loyal Customers
+CUST0012,104,9,187.09000000000003,10,10,10,30,Elite Loyal Customers
+CUST0227,112,6,126.89,10,10,10,30,Elite Loyal Customers
+CUST0289,112,7,121.17000000000002,10,10,10,30,Elite Loyal Customers
+CUST0215,108,6,123.08,10,10,10,30,Elite Loyal Customers
+CUST0029,114,6,130.92,9,10,10,29,Elite Loyal Customers
+CUST0104,113,6,164.74,9,10,10,29,Elite Loyal Customers
+CUST0226,113,6,103.71000000000001,10,10,9,29,Elite Loyal Customers
+CUST0177,104,5,122.91,10,9,10,29,Elite Loyal Customers
+CUST0084,121,8,123.51,9,10,10,29,Elite Loyal Customers
+CUST0073,105,5,142.38,10,9,10,29,Elite Loyal Customers
+CUST0291,117,6,125.53,9,10,10,29,Elite Loyal Customers
+CUST0039,127,8,167.44000000000003,8,10,10,28,Elite Loyal Customers
+CUST0102,110,5,108.91999999999999,10,9,9,28,Elite Loyal Customers
+CUST0092,104,5,113.27,10,9,9,28,Elite Loyal Customers
+CUST0025,120,6,109.94,9,10,9,28,Elite Loyal Customers
+CUST0017,112,6,90.009999999999991,10,10,8,28,Elite Loyal Customers
+CUST0148,108,5,90.62,10,9,9,28,Elite Loyal Customers
+CUST0262,118,5,121.51000000000002,9,9,10,28,Elite Loyal Customers
+CUST0063,118,6,96.28,9,10,9,28,Elite Loyal Customers
+CUST0157,124,7,132.83,8,10,10,28,Elite Loyal Customers
+CUST0040,115,6,101.45999999999998,9,10,9,28,Elite Loyal Customers
+CUST0042,111,4,106.78,10,8,9,27,High-Value Loyal Customers
+CUST0267,127,6,140.89,8,9,10,27,High-Value Loyal Customers
+CUST0011,133,6,128.10999999999999,8,9,10,27,High-Value Loyal Customers
+CUST0161,123,8,103.61000000000001,8,10,9,27,High-Value Loyal Customers
+CUST0117,141,7,150.87000000000003,7,10,10,27,High-Value Loyal Customers
+CUST0178,114,5,114.12,9,9,9,27,High-Value Loyal Customers
+CUST0014,127,6,132.01,8,9,10,27,High-Value Loyal Customers
+CUST0130,112,6,70.779999999999987,10,10,7,27,High-Value Loyal Customers
+CUST0147,119,5,98.48,9,9,9,27,High-Value Loyal Customers
+CUST0236,106,5,70.13,10,9,7,26,High-Value Loyal Customers
+CUST0077,119,4,91.19,9,8,9,26,High-Value Loyal Customers
+CUST0224,129,6,116.16000000000001,8,9,9,26,High-Value Loyal Customers
+CUST0108,119,6,72.05,9,10,7,26,High-Value Loyal Customers
+CUST0251,158,7,123.67,6,10,10,26,High-Value Loyal Customers
+CUST0120,113,5,88.56,9,9,8,26,High-Value Loyal Customers
+CUST0007,131,5,104.63,8,9,9,26,High-Value Loyal Customers
+CUST0154,131,7,88.16,8,10,8,26,High-Value Loyal Customers
+CUST0153,127,6,92.68,8,9,9,26,High-Value Loyal Customers
+CUST0055,115,5,81.3,9,9,8,26,High-Value Loyal Customers
+CUST0143,154,6,170.41,6,9,10,25,High-Value Loyal Customers
+CUST0003,119,4,75.75,9,8,8,25,High-Value Loyal Customers
+CUST0069,110,5,56.24,10,9,6,25,High-Value Loyal Customers
+CUST0216,148,5,158.79999999999998,7,8,10,25,High-Value Loyal Customers
+CUST0179,108,5,55.54,10,9,6,25,High-Value Loyal Customers
+CUST0261,113,6,60.890000000000008,9,10,6,25,High-Value Loyal Customers
+CUST0009,156,6,139.02,6,9,10,25,High-Value Loyal Customers
+CUST0145,132,5,85.98,8,9,8,25,High-Value Loyal Customers
+CUST0271,141,5,117.97999999999999,7,8,10,25,High-Value Loyal Customers
+CUST0288,145,7,88.53,7,10,8,25,High-Value Loyal Customers
+CUST0243,113,4,74.13,9,8,8,25,High-Value Loyal Customers
+CUST0098,166,6,122.55000000000001,6,9,10,25,High-Value Loyal Customers
+CUST0089,115,6,60.04,9,10,6,25,High-Value Loyal Customers
+CUST0293,182,12,190.97,5,10,10,25,High-Value Loyal Customers
+CUST0001,132,5,64.5,8,9,7,24,High-Value Loyal Customers
+CUST0015,115,5,58.19,9,9,6,24,High-Value Loyal Customers
+CUST0106,118,3,91.44,9,6,9,24,High-Value Loyal Customers
+CUST0296,149,5,97.41,7,8,9,24,High-Value Loyal Customers
+CUST0269,122,4,70.96,9,8,7,24,High-Value Loyal Customers
+CUST0090,112,5,49.97,10,9,5,24,High-Value Loyal Customers
+CUST0059,189,7,99.239999999999981,5,10,9,24,High-Value Loyal Customers
+CUST0111,138,5,108.17999999999999,7,8,9,24,High-Value Loyal Customers
+CUST0285,251,8,143.59,3,10,10,23,Loyal Customers
+CUST0026,141,4,95.76,7,7,9,23,Loyal Customers
+CUST0239,124,4,85.9,8,7,8,23,Loyal Customers
+CUST0237,167,5,92.72999999999999,6,8,9,23,Loyal Customers
+CUST0119,154,5,106.08000000000001,6,8,9,23,Loyal Customers
+CUST0131,177,5,131.69,5,8,10,23,Loyal Customers
+CUST0082,152,5,88.89,7,8,8,23,Loyal Customers
+CUST0035,113,3,58.379999999999995,10,6,6,22,Loyal Customers
+CUST0008,161,4,106.62,6,7,9,22,Loyal Customers
+CUST0198,153,5,61.879999999999995,7,8,7,22,Loyal Customers
+CUST0150,128,3,90.490000000000009,8,6,8,22,Loyal Customers
+CUST0159,162,5,85.34,6,8,8,22,Loyal Customers
+CUST0027,137,5,70.66,7,8,7,22,Loyal Customers
+CUST0245,113,3,70.49,9,6,7,22,Loyal Customers
+CUST0220,130,3,73.26,8,6,8,22,Loyal Customers
+CUST0270,147,4,83.37,7,7,8,22,Loyal Customers
+CUST0210,114,4,47.96,9,8,5,22,Loyal Customers
+CUST0294,105,3,59.379999999999995,10,6,6,22,Loyal Customers
+CUST0081,112,3,52.34,10,6,5,21,Loyal Customers
+CUST0282,191,6,70.47999999999999,5,9,7,21,Loyal Customers
+CUST0114,120,3,57.95,9,6,6,21,Loyal Customers
+CUST0202,179,5,85.24,5,8,8,21,Loyal Customers
+CUST0062,108,3,51.039999999999992,10,6,5,21,Loyal Customers
+CUST0295,143,5,57.31,7,8,6,21,Loyal Customers
+CUST0005,144,4,63.34,7,7,7,21,Loyal Customers
+CUST0152,248,6,92.44,3,9,9,21,Loyal Customers
+CUST0166,147,3,98.6,7,5,9,21,Loyal Customers
+CUST0004,216,4,123.07000000000001,4,7,10,21,Loyal Customers
+CUST0242,176,4,97.14,5,7,9,21,Loyal Customers
+CUST0049,104,4,32.14,10,8,3,21,Loyal Customers
+CUST0257,191,5,84.58,5,8,8,21,Loyal Customers
+CUST0060,192,4,88.92,5,7,8,20,Loyal Customers
+CUST0093,163,4,64.37,6,7,7,20,Loyal Customers
+CUST0223,158,5,61.239999999999995,6,8,6,20,Loyal Customers
+CUST0158,220,5,77.509999999999991,4,8,8,20,Loyal Customers
+CUST0176,206,4,107.85,4,7,9,20,Loyal Customers
+CUST0277,108,3,34.480000000000004,10,6,4,20,Loyal Customers
+CUST0175,196,5,74.77,4,8,8,20,Loyal Customers
+CUST0213,107,3,40.739999999999995,10,6,4,20,Loyal Customers
+CUST0099,109,2,58.25,10,4,6,20,Loyal Customers
+CUST0061,120,3,46.61,9,6,5,20,Loyal Customers
+CUST0076,237,5,75.69,3,8,8,19,Emerging Loyalists
+CUST0051,164,3,86.679999999999993,6,5,8,19,Emerging Loyalists
+CUST0172,145,3,61.62,7,5,7,19,Emerging Loyalists
+CUST0250,127,3,47.449999999999996,8,6,5,19,Emerging Loyalists
+CUST0002,166,4,53.9,6,7,5,18,Emerging Loyalists
+CUST0118,135,4,46.04,7,7,4,18,Emerging Loyalists
+CUST0214,127,4,29.380000000000003,8,7,3,18,Emerging Loyalists
+CUST0160,175,4,59.02,5,7,6,18,Emerging Loyalists
+CUST0208,161,3,61.43,6,5,7,18,Emerging Loyalists
+CUST0021,153,3,57.05,7,5,6,18,Emerging Loyalists
+CUST0201,117,3,26.67,9,6,3,18,Emerging Loyalists
+CUST0188,206,5,60.470000000000013,4,8,6,18,Emerging Loyalists
+CUST0233,146,3,61.04,7,5,6,18,Emerging Loyalists
+CUST0146,216,4,64.99,4,7,7,18,Emerging Loyalists
+CUST0078,172,3,70.13,6,5,7,18,Emerging Loyalists
+CUST0170,196,4,62.589999999999996,4,7,7,18,Emerging Loyalists
+CUST0096,220,3,95.009999999999991,4,5,9,18,Emerging Loyalists
+CUST0229,229,4,70.73,4,7,7,18,Emerging Loyalists
+CUST0149,211,4,61.65,4,7,7,18,Emerging Loyalists
+CUST0181,154,4,34.24,7,7,3,17,Emerging Loyalists
+CUST0246,139,3,37.870000000000005,7,6,4,17,Emerging Loyalists
+CUST0169,123,2,53.61,8,4,5,17,Emerging Loyalists
+CUST0036,181,3,72.06,5,5,7,17,Emerging Loyalists
+CUST0278,106,2,27.89,10,4,3,17,Emerging Loyalists
+CUST0067,131,2,50.21,8,4,5,17,Emerging Loyalists
+CUST0080,228,3,80.93,4,5,8,17,Emerging Loyalists
+CUST0195,174,4,52.35,5,7,5,17,Emerging Loyalists
+CUST0133,203,4,57.97,4,7,6,17,Emerging Loyalists
+CUST0173,193,4,52.510000000000005,5,7,5,17,Emerging Loyalists
+CUST0095,125,3,31.410000000000004,8,6,3,17,Emerging Loyalists
+CUST0034,108,2,15.89,10,4,2,16,Emerging Loyalists
+CUST0274,205,3,71.960000000000008,4,5,7,16,Emerging Loyalists
+CUST0113,144,3,36.65,7,5,4,16,Emerging Loyalists
+CUST0037,153,3,40.36,7,5,4,16,Emerging Loyalists
+CUST0218,185,3,59.46,5,5,6,16,Emerging Loyalists
+CUST0287,191,4,40.15,5,7,4,16,Emerging Loyalists
+CUST0137,172,4,34.400000000000006,6,7,3,16,Emerging Loyalists
+CUST0022,174,3,50.93,6,5,5,16,Emerging Loyalists
+CUST0165,284,4,85.339999999999989,2,6,8,16,Emerging Loyalists
+CUST0132,242,4,65.009999999999991,3,6,7,16,Emerging Loyalists
+CUST0047,284,4,90.01,2,6,8,16,Emerging Loyalists
+CUST0284,162,2,71.95,6,3,7,16,Emerging Loyalists
+CUST0222,167,4,30.69,6,7,3,16,Emerging Loyalists
+CUST0010,190,4,35.17,5,7,4,16,Emerging Loyalists
+CUST0141,200,5,35.08,4,8,4,16,Emerging Loyalists
+CUST0123,227,3,59.819999999999993,4,5,6,15,Active Customers
+CUST0046,339,4,65.58,2,6,7,15,Active Customers
+CUST0126,115,2,20.42,9,4,2,15,Active Customers
+CUST0292,230,3,69.42,3,5,7,15,Active Customers
+CUST0204,136,3,20.82,7,6,2,15,Active Customers
+CUST0128,193,3,53.66,5,5,5,15,Active Customers
+CUST0136,193,3,52.02,5,5,5,15,Active Customers
+CUST0038,221,4,44.35,4,7,4,15,Active Customers
+CUST0125,162,3,41.379999999999995,6,5,4,15,Active Customers
+CUST0231,225,3,55.25,4,5,6,15,Active Customers
+CUST0066,173,2,56.19,6,3,6,15,Active Customers
+CUST0199,219,4,41.640000000000008,4,7,4,15,Active Customers
+CUST0235,164,2,54.569999999999993,6,3,6,15,Active Customers
+CUST0168,208,3,58.050000000000004,4,5,6,15,Active Customers
+CUST0050,140,3,32.49,7,5,3,15,Active Customers
+CUST0064,184,3,49.8,5,5,5,15,Active Customers
+CUST0088,122,2,21.91,8,4,2,14,Active Customers
+CUST0103,130,2,22.2,8,4,2,14,Active Customers
+CUST0164,266,4,52.290000000000006,3,6,5,14,Active Customers
+CUST0020,258,4,52.31,3,6,5,14,Active Customers
+CUST0275,132,2,27.740000000000002,8,3,3,14,Active Customers
+CUST0085,151,2,41.95,7,3,4,14,Active Customers
+CUST0134,267,4,53.769999999999996,3,6,5,14,Active Customers
+CUST0100,132,2,18.39,8,4,2,14,Active Customers
+CUST0086,205,4,30.27,4,7,3,14,Active Customers
+CUST0087,311,4,57.609999999999992,2,6,6,14,Active Customers
+CUST0183,245,2,76.81,3,3,8,14,Active Customers
+CUST0241,200,3,51.7,4,5,5,14,Active Customers
+CUST0265,171,2,50.75,6,3,5,14,Active Customers
+CUST0219,170,2,47.76,6,3,5,14,Active Customers
+CUST0041,358,4,63.980000000000004,1,6,7,14,Active Customers
+CUST0193,298,4,58.099999999999994,2,6,6,14,Active Customers
+CUST0044,115,2,10.379999999999999,9,4,1,14,Active Customers
+CUST0254,122,2,21.060000000000002,8,4,2,14,Active Customers
+CUST0023,257,3,62.489999999999995,3,4,7,14,Active Customers
+CUST0268,378,3,80.47,1,4,8,13,Active Customers
+CUST0221,138,2,30.95,7,3,3,13,Active Customers
+CUST0072,358,5,41.33,1,8,4,13,Active Customers
+CUST0122,221,3,45.870000000000005,4,5,4,13,Active Customers
+CUST0156,430,3,72.32,1,4,8,13,Active Customers
+CUST0266,258,4,37.730000000000004,3,6,4,13,Active Customers
+CUST0299,171,2,36.3,6,3,4,13,Active Customers
+CUST0200,171,2,45.68,6,3,4,13,Active Customers
+CUST0232,128,2,9.9400000000000013,8,4,1,13,Active Customers
+CUST0297,171,2,41.12,6,3,4,13,Active Customers
+CUST0019,231,3,50.73,3,5,5,13,Active Customers
+CUST0174,204,2,55.1,4,3,6,13,Active Customers
+CUST0263,254,3,57.67,3,4,6,13,Active Customers
+CUST0228,231,4,37.58,3,6,4,13,Active Customers
+CUST0101,340,3,70.75,2,4,7,13,Active Customers
+CUST0065,152,2,23.78,7,3,2,12,Active Customers
+CUST0171,243,3,37.59,3,5,4,12,Active Customers
+CUST0052,213,2,52.57,4,3,5,12,Active Customers
+CUST0206,349,3,63.080000000000005,1,4,7,12,Active Customers
+CUST0115,264,3,52.66,3,4,5,12,Active Customers
+CUST0192,212,3,33.650000000000006,4,5,3,12,Active Customers
+CUST0058,301,2,83.66,2,2,8,12,Active Customers
+CUST0142,176,2,40.78,5,3,4,12,Active Customers
+CUST0079,189,2,38.49,5,3,4,12,Active Customers
+CUST0127,133,2,23.58,7,3,2,12,Active Customers
+CUST0075,300,3,60.87,2,4,6,12,Active Customers
+CUST0273,358,3,55.45,1,4,6,11,At-Risk Customers
+CUST0180,130,1,12.12,8,2,1,11,At-Risk Customers
+CUST0105,160,2,19.49,6,3,2,11,At-Risk Customers
+CUST0185,179,2,32.3,5,3,3,11,At-Risk Customers
+CUST0013,174,2,30.9,5,3,3,11,At-Risk Customers
+CUST0211,161,2,21.21,6,3,2,11,At-Risk Customers
+CUST0109,129,1,8.01,8,2,1,11,At-Risk Customers
+CUST0182,274,3,33.46,3,4,3,10,At-Risk Customers
+CUST0207,190,2,22.57,5,3,2,10,At-Risk Customers
+CUST0129,311,3,46.099999999999994,2,4,4,10,At-Risk Customers
+CUST0249,267,2,49.29,3,2,5,10,At-Risk Customers
+CUST0279,138,1,5.19,7,2,1,10,At-Risk Customers
+CUST0217,250,3,33.95,3,4,3,10,At-Risk Customers
+CUST0286,186,2,15.41,5,3,2,10,At-Risk Customers
+CUST0110,257,2,52.1,3,2,5,10,At-Risk Customers
+CUST0209,311,3,41.0,2,4,4,10,At-Risk Customers
+CUST0225,266,3,24.72,3,4,3,10,At-Risk Customers
+CUST0298,213,2,28.03,4,3,3,10,At-Risk Customers
+CUST0290,398,2,69.789999999999992,1,2,7,10,At-Risk Customers
+CUST0281,363,3,47.22,1,4,5,10,At-Risk Customers
+CUST0300,280,2,48.06,2,2,5,9,At-Risk Customers
+CUST0053,185,2,13.86,5,3,1,9,At-Risk Customers
+CUST0107,292,3,29.130000000000003,2,4,3,9,At-Risk Customers
+CUST0259,413,2,59.36,1,2,6,9,At-Risk Customers
+CUST0276,380,2,48.74,1,2,5,8,At-Risk Customers
+CUST0068,313,2,40.29,2,2,4,8,At-Risk Customers
+CUST0045,246,2,23.240000000000002,3,3,2,8,At-Risk Customers
+CUST0121,282,2,44.730000000000004,2,2,4,8,At-Risk Customers
+CUST0163,380,3,29.840000000000003,1,4,3,8,At-Risk Customers
+CUST0247,226,2,11.96,4,3,1,8,At-Risk Customers
+CUST0272,161,1,4.37,6,1,1,8,At-Risk Customers
+CUST0024,239,2,16.66,3,3,2,8,At-Risk Customers
+CUST0238,334,1,34.88,2,1,4,7,Dormant Customers
+CUST0260,252,1,33.6,3,1,3,7,Dormant Customers
+CUST0056,191,1,10.48,5,1,1,7,Dormant Customers
+CUST0033,192,1,5.71,5,1,1,7,Dormant Customers
+CUST0187,293,2,33.97,2,2,3,7,Dormant Customers
+CUST0144,249,2,16.04,3,2,2,7,Dormant Customers
+CUST0071,181,1,13.79,5,1,1,7,Dormant Customers
+CUST0191,229,1,16.14,4,1,2,7,Dormant Customers
+CUST0016,341,2,39.26,1,2,4,7,Dormant Customers
+CUST0155,278,2,33.09,2,2,3,7,Dormant Customers
+CUST0240,183,1,12.43,5,1,1,7,Dormant Customers
+CUST0234,254,2,22.16,3,2,2,7,Dormant Customers
+CUST0054,259,2,14.21,3,2,1,6,Dormant Customers
+CUST0151,328,2,21.74,2,2,2,6,Dormant Customers
+CUST0162,298,2,14.67,2,2,2,6,Dormant Customers
+CUST0196,314,2,23.36,2,2,2,6,Dormant Customers
+CUST0244,352,2,33.430000000000007,1,2,3,6,Dormant Customers
+CUST0283,204,1,5.6,4,1,1,6,Dormant Customers
+CUST0057,275,1,24.63,3,1,2,6,Dormant Customers
+CUST0097,340,2,32.73,1,2,3,6,Dormant Customers
+CUST0124,351,2,27.5,1,2,3,6,Dormant Customers
+CUST0190,337,1,33.44,2,1,3,6,Dormant Customers
+CUST0184,318,2,9.69,2,2,1,5,Dormant Customers
+CUST0074,341,2,20.810000000000002,1,2,2,5,Dormant Customers
+CUST0186,366,2,17.36,1,2,2,5,Dormant Customers
+CUST0018,298,1,22.09,2,1,2,5,Dormant Customers
+CUST0032,300,1,14.27,2,1,2,5,Dormant Customers
+CUST0140,373,1,27.37,1,1,3,5,Dormant Customers
+CUST0194,388,2,19.810000000000002,1,2,2,5,Dormant Customers
+CUST0256,272,1,4.12,3,1,1,5,Dormant Customers
+CUST0138,342,1,15.44,1,1,2,4,Dormant Customers
+CUST0116,298,1,4.38,2,1,1,4,Dormant Customers
+CUST0197,291,1,4.26,2,1,1,4,Dormant Customers
+CUST0112,276,1,11.81,2,1,1,4,Dormant Customers
+CUST0205,289,1,5.19,2,1,1,4,Dormant Customers
+CUST0189,423,1,17.08,1,1,2,4,Dormant Customers
+CUST0280,361,2,11.09,1,2,1,4,Dormant Customers
+CUST0028,280,1,4.86,2,1,1,4,Dormant Customers
+CUST0258,417,1,12.22,1,1,1,3,Lost Customers
+CUST0255,418,1,11.89,1,1,1,3,Lost Customers
+CUST0031,438,1,9.42,1,1,1,3,Lost Customers
+CUST0094,400,1,11.82,1,1,1,3,Lost Customers
+CUST0043,386,1,12.17,1,1,1,3,Lost Customers
+CUST0203,422,1,8.8,1,1,1,3,Lost Customers
+CUST0167,413,1,10.17,1,1,1,3,Lost Customers
