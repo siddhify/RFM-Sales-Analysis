@@ -7,7 +7,6 @@ The goal is to understand which customers are most valuable, which are at risk, 
 ---
 
 ### Dashboard Overview  
-![Dashboard]
 <img width="1105" height="619" alt="image" src="https://github.com/user-attachments/assets/e0951ca9-434e-4f99-befb-4d0e5b662d64" />
 
 The dashboard provides a clear view of customer distribution and overall engagement, enabling quick identification of high-value segments and potential areas of concern.
@@ -27,7 +26,6 @@ These patterns were used to group customers into distinct segments based on thei
 ---
 
 ### Customer Segmentation Insights  
-![Customer Segments]
 <img width="413" height="431" alt="image" src="https://github.com/user-attachments/assets/67c45897-787e-4fac-a67b-71f67f6c2e8c" />
 
 The segmentation highlights how customers are spread across different engagement levels, making it easier to identify which groups drive value and which require attention.
